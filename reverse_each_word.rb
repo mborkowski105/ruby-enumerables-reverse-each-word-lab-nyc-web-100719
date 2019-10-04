@@ -4,3 +4,5 @@ def reverse_each_word(phrase)
   
   return new_phrase
 end
+
+[1, 2, 3].each { |n| puts "Current number is: #{n}" }
